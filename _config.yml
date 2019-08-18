@@ -1,11 +1,11 @@
 # Site settings
-title: Jean Dellac
-tag_text: Good Clean Read
+title: Jean Dellac - VR/AR/Virtual Production
+tag_text: Jean Dellac
 description: VR/AR/Virtual Production Developer and Technical Director
 url: "http://127.0.0.1:4000"
 baseurl: ""
 
-font-awesome-include: true # make this false if you don't need font-awesome
+font-awesome-include: false # make this false if you don't need font-awesome
 
 # Build settings
 markdown: kramdown
