@@ -2,14 +2,11 @@
 layout: default
 ---
 
-<img src="images/profile.jpg" alt="Very serious talk!">
-
 ## VR/AR/Virtual Production Developer and Technical Director
 
-[mailto](mailto:jean.dellac@tuta.io)
-[Resume](/tutorial.md)
-[Linkedin](/tutorial.md)
+[Email](mailto:jean.dellac@tuta.io) - [Resume](/tutorial.md) - [Linkedin](/tutorial.md)
 
+<img src="images/profile.jpg" alt="Very serious talk!">
 
 ### What do I do?
 
