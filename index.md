@@ -2,9 +2,10 @@
 layout: default
 ---
 
-## VR/AR/Virtual Production Developer and Technical Director
+## Developer and Technical Director
+## VR/AR/Virtual Production
 
-[Email](mailto:jean.dellac@tuta.io) - [Resume](/tutorial.md) - [Linkedin](/tutorial.md)
+[jean.dellac@tuta.io](mailto:jean.dellac@tuta.io) - [Linkedin](<https://www.linkedin.com/in/jean-dellac-67a8689/>) - [Twitter](<https://twitter.com/jeandellac>)
 
 ### What do I do?
 
